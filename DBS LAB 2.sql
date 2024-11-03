@@ -1,0 +1,1 @@
+SELECT * FROM companydb1.employee;
